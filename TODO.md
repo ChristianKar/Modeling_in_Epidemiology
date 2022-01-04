@@ -14,5 +14,5 @@
 3. Different vaccination strats: 
     a. T=0 Vaccination or T=t Vaccination.                              DONE
     b. Periodic over days/scaled timestamps, over weeks etc.            DONE
-    c. Const. num of doses: decide between continuous and all-at-once vaccination strategies QUENTIN 
+    c. Const. num of doses: decide between continuous and all-at-once vaccination strategies DONE 
     d. random vaccination OR select some people from each class - stratified vaccination. DONE
