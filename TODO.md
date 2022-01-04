@@ -9,10 +9,10 @@
 
 # Parameters to change: 
 
-1. Incubation period 
-2. Model a real disease, with parameters from that dis. 
+1. Incubation period data- LUCCA
+2. Model a real disease, with parameters from that disease. LUCCA 
 3. Different vaccination strats: 
-    a. T=0 Vaccination or T=t Vaccination. 
-    b. Periodic over days/scaled timestamps, over weeks etc.
-    c. Const. num of doses: decide between continuous and all-at-once vaccination strategies 
-    d. random vaccination OR select some people from each class - stratified vaccination. 
+    a. T=0 Vaccination or T=t Vaccination.                              DONE
+    b. Periodic over days/scaled timestamps, over weeks etc.            DONE
+    c. Const. num of doses: decide between continuous and all-at-once vaccination strategies QUENTIN 
+    d. random vaccination OR select some people from each class - stratified vaccination. PRASANNA
